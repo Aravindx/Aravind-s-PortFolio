@@ -37,19 +37,19 @@ function Projects() {
               imgPath="https://i.pinimg.com/originals/53/8f/b8/538fb869639b74159ec89fc6c0fbae96.png"
               isBlog={false}
               title="Movie Rating App"
-              description="An Oyo-clone XYZ Room booking app build with MERN stack and implementation of features of Booking rooms,cancel Bokking,Adding rooms dat to Database,Edit rooms, Payment access."
-              ghLink="https://github.com/triplek24/Oyo-RoomBooking-App"
-              demoLink="https://mern-rooms-app.herokuapp.com/"
+              description="Movie Rating App is a simple webpage where you can see the deatails of movies with few functions like adding a new movie, liking, disliking, rating a movie."
+              ghLink="https://github.com/Aravindx/movie-rating-app.git"
+              demoLink="https://movieapp-rating.netlify.app/"
             />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://tse3.mm.bing.net/th?id=OIP.Tai24BuXPmuSiOsItwzedgHaFj&pid=Api&P=0"
+              imgPath="https://img.etimg.com/thumb/msid-66009798,width-650,height-488,imgsize-621307,,resizemode-75/dress.jpg"
               isBlog={false}
               title="To-Do List-App"
-              description="Calorie Counter is a MERN stack application that can help you manage the number of calories you take a day in order to maintain a healthier diet."
-              ghLink="https://github.com/triplek24/Diet-Suggestion-Calorie-Calculator"
-              demoLink="https://cheery-kitten-fd6449.netlify.app/userlist"
+              description="Classic mens is a simple frontend model website for men's clothing with some CRUD operations"
+              ghLink="https://github.com/Aravindx/React-day-3---Shopping"
+              demoLink="https://classicmens-shopping-1cce30.netlify.app/"
             />
           </Col>
 
@@ -59,8 +59,8 @@ function Projects() {
               isBlog={false}
               title="School Management"
               description="A basic web application supporting all CRUD operations to map students to mentors. Build using MERN stack."
-              ghLink="https://github.com/Aravindx/Task-31-LibDash"
-              demoLink="https://dashing-phoenix-0ae920.netlify.app/"
+              ghLink="https://github.com/Aravindx/React-Day-8--Context-API-student-teacher"
+              demoLink="https://studentteacher-adminboard-4052ac.netlify.app/"
             />
           </Col>
 
@@ -70,8 +70,8 @@ function Projects() {
               isBlog={false}
               title="AWS Polymer Search"
               description="Weather finder tells us the wind speed, the UV level, humidity levels, and even “feels like” temperature to account for the dreaded wind chill. Build using React Js."
-              ghLink="https://github.com/Aravindx/AWS-Polymer-Search-Clone-Frontend"
-              demoLink="https://master--awscloneapp.netlify.app/"
+              ghLink="https://github.com/Aravindx/aws_polymer_front.git"
+              demoLink="https://classy-beijinho-edcf39.netlify.app/"
             />
           </Col>
 
