@@ -24,40 +24,19 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={pizza}
+              imgPath="https://i.pinimg.com/originals/74/7b/80/747b80153fda10b8d37e79b6ce282b19.png"
               isBlog={false}
-              title="Pizza Delivery"
-              description="A well-balanced meal is a slice in both hands. Home slice service allows customers to pick from different flavours of pizza from the menu according to their taste, place an order. Build using MERN stack and stripe gateway for payment."
-              ghLink="https://github.com/triplek24/Pizza-delivery-frontend"
-              demoLink="https://awesome-pizza.herokuapp.com/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={url}
-              isBlog={false}
-              title="Miniature"
-              description="Miniature is a tool that creates a short, unique URL that will redirect to the specific website of your choosing. Build using MERN stack."
-              ghLink="https://github.com/triplek24/URl-Shortend-App-Cfrontend"
-              demoLink="https://karthi-url-shortend.netlify.app/"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={ecommerace}
-              isBlog={false}
-              title="Ecommerace Website"
+              title="Rental Website"
               description="An ecommerce store build with MERN stack, and utilizes third party API's. Implementation of Add to Cart and Delete and Admin access and payment method using Nodejs,Reactjs"
-              ghLink="https://github.com/triplek24/Ecommerace-Front"
-              demoLink="https://shoppeestop.netlify.app/"
+              ghLink="https://github.com/Aravindx/RentalX-Frontend.git"
+              demoLink="https://luminous-halva-57f3c3.netlify.app/"
             />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={oyo}
+              imgPath="https://i.pinimg.com/originals/53/8f/b8/538fb869639b74159ec89fc6c0fbae96.png"
               isBlog={false}
-              title="Oyo-Clone-XYZ-Rooms"
+              title="Movie Rating App"
               description="An Oyo-clone XYZ Room booking app build with MERN stack and implementation of features of Booking rooms,cancel Bokking,Adding rooms dat to Database,Edit rooms, Payment access."
               ghLink="https://github.com/triplek24/Oyo-RoomBooking-App"
               demoLink="https://mern-rooms-app.herokuapp.com/"
@@ -65,12 +44,12 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Diet}
+              imgPath="https://tse3.mm.bing.net/th?id=OIP.Tai24BuXPmuSiOsItwzedgHaFj&pid=Api&P=0"
               isBlog={false}
-              title="Diet-Suggestion-App"
+              title="To-Do List-App"
               description="Calorie Counter is a MERN stack application that can help you manage the number of calories you take a day in order to maintain a healthier diet."
               ghLink="https://github.com/triplek24/Diet-Suggestion-Calorie-Calculator"
-              demoLink="https://g-calorie-counter.herokuapp.com/"
+              demoLink="https://cheery-kitten-fd6449.netlify.app/userlist"
             />
           </Col>
 
@@ -80,19 +59,19 @@ function Projects() {
               isBlog={false}
               title="School Management"
               description="A basic web application supporting all CRUD operations to map students to mentors. Build using MERN stack."
-              ghLink="https://github.com/triplek24/School-Managment-Front"
-              demoLink="https://school-management-24c466.netlify.app/"
+              ghLink="https://github.com/Aravindx/Task-31-LibDash"
+              demoLink="https://dashing-phoenix-0ae920.netlify.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={weather}
+              imgPath="https://tse4.mm.bing.net/th?id=OIP.QoK8uI509mzvKqpp3f9SDAHaFj&pid=Api&P=0"
               isBlog={false}
-              title="Weather Finder"
+              title="AWS Polymer Search"
               description="Weather finder tells us the wind speed, the UV level, humidity levels, and even “feels like” temperature to account for the dreaded wind chill. Build using React Js."
-              ghLink="https://github.com/triplek24/Weather-Api-"
-              demoLink="https://weatherapi-getforecast-ff2cfa.netlify.app/"
+              ghLink="https://github.com/Aravindx/AWS-Polymer-Search-Clone-Frontend"
+              demoLink="https://master--awscloneapp.netlify.app/"
             />
           </Col>
 
@@ -111,10 +90,10 @@ function Projects() {
             <ProjectCard
               imgPath={task}
               isBlog={false}
-              title="Task Manager"
+              title="Data Manager"
               description="Keep an eye across all tasks by using this task manager app. With this app users can note down the tasks and can view it whenever wanted. Build using React Js."
-              ghLink="https://github.com/triplek24/Task-manager-App"
-              demoLink="https://ephemeral-kitten-61109f.netlify.app/"
+              ghLink="https://github.com/Aravindx/Task-31-LibDash"
+              demoLink="https://cheery-kitten-fd6449.netlify.app"
             />
           </Col>
 
