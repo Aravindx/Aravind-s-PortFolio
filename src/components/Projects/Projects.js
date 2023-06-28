@@ -1,16 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import pizza from "../../Assets/Projects/pizza.png";
-import weather from "../../Assets/Projects/weather.png";
 import calc from "../../Assets/Projects/calc.png";
-import task from "../../Assets/Projects/task.png";
 import school from "../../Assets/Projects/school.png";
-import url from "../../Assets/Projects/URLShortener.png";
-import ecommerace from "../../Assets/Projects/Ecommerace.png";
-import oyo from "../../Assets/Projects/oyo.png";
 import pokemon from "../../Assets/Projects/pokemon.png";
-import Diet from "../../Assets/Projects/Diet.png";
+
 function Projects() {
   return (
     <Container fluid className="project-section">
