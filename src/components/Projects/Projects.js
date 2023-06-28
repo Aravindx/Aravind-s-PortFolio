@@ -86,7 +86,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={task}
               isBlog={false}
@@ -95,7 +95,7 @@ function Projects() {
               ghLink="https://github.com/Aravindx/Task-31-LibDash"
               demoLink="https://cheery-kitten-fd6449.netlify.app"
             />
-          </Col>
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard
